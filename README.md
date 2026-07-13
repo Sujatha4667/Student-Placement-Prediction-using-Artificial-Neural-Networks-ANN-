@@ -103,7 +103,7 @@ than improved accuracy, as seen in the growing gap between training and validati
 See `images/model_comparison.png` and the notebook's "Observations & Conclusion" section for
 full details. (Exact numbers may vary slightly on re-run due to random weight initialization.)
 
-## ⚙️ Setup & Execution Steps
+## Setup & Execution Steps
 
 ### 1. Clone the repository
 ```bash
