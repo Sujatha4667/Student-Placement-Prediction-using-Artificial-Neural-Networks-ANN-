@@ -1,10 +1,10 @@
-# 🎓 Student Placement Prediction using Artificial Neural Networks (ANN)
+# Student Placement Prediction using Artificial Neural Networks (ANN)
 
 An **Artificial Neural Network (ANN)** built with **TensorFlow/Keras** to predict whether a student will be **Placed** or **Not Placed**, based on academic performance and skill-related attributes.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project was built as part of an assignment on Artificial Neural Networks. It covers the complete ML workflow:
 
@@ -17,7 +17,7 @@ This project was built as part of an assignment on Artificial Neural Networks. I
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 student-placement-ann/
@@ -40,7 +40,7 @@ student-placement-ann/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **File:** `data/student_placement.csv` (1200 rows, 9 columns)
 
@@ -67,7 +67,7 @@ real-world placement patterns while keeping the classes reasonably balanced (~55
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 **Baseline Model**
 ```
@@ -90,7 +90,7 @@ Optimizer: Adam (lr=0.0005) | Loss: Binary Crossentropy | Epochs: 100
 
 ---
 
-## 📈 Results
+## Results
 
 | Model | Hidden Layers | Learning Rate | Test Accuracy | Test Loss |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ top to bottom. All plots will be regenerated and saved into the `images/` folder
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python 3.12
 - TensorFlow / Keras
 - scikit-learn
@@ -151,7 +151,7 @@ top to bottom. All plots will be regenerated and saved into the `images/` folder
 
 ---
 
-## 🔍 Observations & Conclusion
+## Observations & Conclusion
 
 - Both models learned the placement pattern well since `CGPA`, `Internships`,
   `Communication_Skill`, and `Aptitude_Score` are strong predictors in this dataset.
@@ -163,5 +163,9 @@ top to bottom. All plots will be regenerated and saved into the `images/` folder
 
 ---
 
-## 👤 Author
-Assignment submission for the session on Artificial Neural Networks (ANN).
+## Author
+
+sujatha4667
+
+
+Artificial Neural Networks (ANN) - Week 2 Assignment
